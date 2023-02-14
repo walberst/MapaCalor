@@ -14,6 +14,7 @@ function equalizeClickCoordinates(x, y) {
 }
 
 
+
 async function captureDados() {
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
         return;

@@ -8,6 +8,7 @@ $rows = $db->query("select x,y, count(id) as value from tb_moviments  group by x
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +17,7 @@ $rows = $db->query("select x,y, count(id) as value from tb_moviments  group by x
 </head>
 
 <body>
-    <div class="heatmap" style="background-image: url('uploads/63ead7a22cfee.jpeg');width:1350px; height:300px"></div>
+    <div class="heatmap" style="background-image: url('uploads/63eae01088ad0.jpeg');width:1350px; height:300px"></div>
 
     <script>
         var heatmapInstance = h337.create({

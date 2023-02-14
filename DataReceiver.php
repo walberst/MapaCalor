@@ -113,4 +113,4 @@ class DataReceiver
 }
 
 
-(new DataReceiver())->receiveData();
+(new DataReceiver())->receiveData(); 
