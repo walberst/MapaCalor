@@ -1,5 +1,5 @@
 # Heatmap Visualization
-Este é um projeto para visualização de dados em forma de heatmap. 
+Este é um projeto para visualização de dados em forma de heatmap (mapa de calor). 
 O projeto é composto por três arquivos principais, o arquivo `captureDados.js` e as classes `DataReceiver.php` e `Database.php`.
 
 ## Arquivo captureDados.js
